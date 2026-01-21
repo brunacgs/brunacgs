@@ -15,14 +15,16 @@
 <br>
 
 <div align="center">
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" height="40">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40">
+  <br> <img src="https://img.shields.io/badge/Matplotlib-317ead?style=for-the-badge&logo=python&logoColor=white" height="40">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" height="40">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="40">
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=20&duration=1&pause=0&color=00CCFFB8&center=true&vCenter=true&width=500&lines=💻+Redes+Sociais+e+Contatos:&repeat=false" alt="Redes Sociais e Contatos" />
@@ -41,5 +43,7 @@
     <img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" height="35">
   </a>
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A89A6&section=footer&reversal=false"/>
