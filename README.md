@@ -4,6 +4,7 @@
   
   [![Protonmail](https://img.shields.io/badge/brunacardosogomes%40hotmail.com-ECE5DD?style=social&logo=Protonmail&labelColor=%23ECE5DD)](mailto:brunacardosogomes@hotmail.com)
   [![Whatsapp](https://img.shields.io/badge/Whatsapp%20me-ECE5DD?style=social&logo=Whatsapp&labelColor=%23ECE5DD)](https://wa.me/5534988020827)
+  
   [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/brunacg/)
 
 
