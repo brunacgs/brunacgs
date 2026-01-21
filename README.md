@@ -9,5 +9,5 @@ Hi!! I'm Bruna Cardoso Gomes
 </div>
 
 </div>
-<img align="right" height="470" src="https://imgur.com/gallery/aaaaaaaaaa-rBzpO71#HFmaGVd.png">
+<img align="right" height="470" src="https://imgur.com/gallery/programmercat-u6BpdPT#Kuw3Vxm">
 </div>
