@@ -15,6 +15,11 @@
 
 </div>
 
+<div align="left">
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+</div>
 
 <div style="display: inline_block"><br>
   
