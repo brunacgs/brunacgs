@@ -1,9 +1,10 @@
 
 
-<div align="right">
+<div align="left">
   
   [![Outlook](https://img.shields.io/badge/Mail-ECE5DD?style=social&logo=Gmail&labelColor=%23ECE5DD)](mailto:brunacardosogomes@hotmail.com)
   [![Whatsapp](https://img.shields.io/badge/whatsapp-ECE5DD?style=social&logo=Whatsapp&labelColor=%23ECE5DD)](https://wa.me/5534988020827)
+  
   
 </div>
 
