@@ -17,7 +17,7 @@
 
 <div align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Phyton,SQL)](https://skillicons.dev)
 
 </div>
 
