@@ -1,4 +1,4 @@
-
+<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&reversal=false/>
 
 <div align="left">
 
@@ -6,14 +6,6 @@
 
 </div>
 
-
-<div align="left">
-  
-  [![Protonmail](https://img.shields.io/badge/brunacardosogomes%40hotmail.com-ECE5DD?style=social&logo=Protonmail&labelColor=%23ECE5DD)](mailto:brunacardosogomes@hotmail.com)
-  
-  [![Whatsapp](https://img.shields.io/badge/Whatsapp%20me-ECE5DD?style=social&logo=Whatsapp&labelColor=%23ECE5DD)](https://wa.me/5534988020827)
-
-</div>
 
 <div align="left">
   
