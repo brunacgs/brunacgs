@@ -23,10 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" height="20">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-317ead?style=for-the-badge&logo=python&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">&nbsp;
 </div>
 <br>
 
