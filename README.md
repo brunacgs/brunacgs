@@ -32,7 +32,7 @@
 </div>
 <br><br>
 
-<br>💻 Redes Sociais e Contatos
+<br>💻 Redes Sociais e Contatos:
 <div align="left">
   <a href="https://www.linkedin.com/in/brunacg/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20">
