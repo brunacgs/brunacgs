@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A89A6&section=header&reversal=false"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=20&duration=1000&pause=1000&color=00CCFFB8&center=false&vCenter=false&width=900&height=120&lines=Hello+World!+👩🏽‍💻;Eu+sou+a+Bruna,+eng.+Agrônoma+me+especializando+em;Ciência+de+Dados+e+Inteligência+Artificial+Aplicada+a+Negócios&multiline=true&repeat=false" alt="Bio da Bruna" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=20&duration=1000&pause=1000&color=00CCFFB8&center=true&vCenter=true&width=900&height=120&lines=Hello+World!+👩🏽‍💻;Eu+sou+a+Bruna,+engenheira+agrônoma+me+especializando+em;Ciência+de+Dados+e+Inteligência+Artificial+Aplicada+a+Negócios&multiline=true&repeat=false" alt="Bio da Bruna" />
 </div>
-
+<br>
 👩🏽‍🎓 Experiência Acadêmica:
 <br>Cursando Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios na FNAT (2026- Atual)
 <br>Cursando Ciência de Dados na EBAC (2025- Atual)
@@ -16,7 +16,7 @@
 <br>Eng. Agrônoma Especialista em Qualidade de Sementes, Bayer (2023-2024)
 <br>Eng. Agrônoma de Produção de Sementes, Bayer (2019-2023)
 <br>Eng. Agrônoma Coordenadora de Pesquisa em Melhoramento de Soja, GM Seeds (2017-2019)
-<br><br>
+<br>
 
 <br>🛠 Tecnologias e Ferramentas:
 <div align="left">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" height="20">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="20">
 </div>
-<br><br>
+<br>
 
 <br>💻 Redes Sociais e Contatos:
 <div align="left">
