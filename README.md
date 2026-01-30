@@ -1,10 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A89A6&section=header&reversal=false"/>
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=20&duration=1&pause=0&color=00CCFFB8&center=false&vCenter=false&width=500&lines=👩🏽‍💻+Bruna+Cardoso+Gomes&repeat=false" alt="Bruna Cardoso Gomes" />
-<br><img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=16&duration=1&pause=0&color=00CCFFB8&center=false&vCenter=false&width=950&lines=Eng.+Agrônoma+se+especializando+em+Ciência+de+Dados+e+uso+de+Inteligência+Artificial+Aplicada+a+Negócios&repeat=false" alt="Eng. Agrônoma se especializando em Ciência de Dados e uso de Inteligência Artificial Aplicada a Negócios" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=20&duration=1000&pause=1000&color=00CCFFB8&center=false&vCenter=false&width=900&height=120&lines=Hello+World!+👩🏽‍💻;Eu+sou+a+Bruna,+eng.+Agrônoma+me+especializando+em;Ciência+de+Dados+e+Inteligência+Artificial+Aplicada+a+Negócios&multiline=true&repeat=false" alt="Bio da Bruna" />
 </div>
-<br><br>
 
 👩🏽‍🎓 Experiência Acadêmica:
 <br>Cursando Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios na FNAT (2026- Atual)
