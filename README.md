@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25&size=20&duration=1&pause=0&color=00CCFFB8&center=false&vCenter=false&width=500&lines=👩🏽‍💻+Bruna+Cardoso+Gomes&repeat=false" alt="Bruna Cardoso Gomes" />
-<br><img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=15&duration=1&pause=0&color=00CCFFB8&center=false&vCenter=false&width=950&lines=Engenheira+Agrônoma+se+especializando+em+Ciência+de+Dados+e+uso+de+Inteligência+Artificial+Aplicada+a+Negócios&repeat=false" alt="Engenheira Agrônoma se especializando em Ciência de Dados e uso de Inteligência Artificial Aplicada a Negócios" />
+<br><img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=16&duration=1&pause=0&color=00CCFFB8&center=false&vCenter=false&width=950&lines=Eng.+Agrônoma+se+especializando+em+Ciência+de+Dados+e+uso+de+Inteligência+Artificial+Aplicada+a+Negócios&repeat=false" alt="Eng. Agrônoma se especializando em Ciência de Dados e uso de Inteligência Artificial Aplicada a Negócios" />
 </div>
 <br><br>
 
