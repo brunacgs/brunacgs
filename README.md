@@ -28,18 +28,14 @@
 </div>
 <br>
 
-<br>💻 Redes Sociais e Contatos:
+<br>💻 LinkedIn e E-mail:
 <div align="left">
   <a href="https://www.linkedin.com/in/brunacg/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="20">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/5534988020827" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30">
   </a>
   &nbsp;&nbsp;
   <a href="mailto:brunacardosogomes@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_Office_Outlook_%282018%E2%80%932024%29.svg" height="30">
   </a>
 </div>
 
