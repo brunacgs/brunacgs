@@ -20,10 +20,11 @@
 
 <br>🛠 Tecnologias e Ferramentas:
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="20">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="20">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30">&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg" height="30">&nbsp;&nbsp;
 </div>
 <br>
 
