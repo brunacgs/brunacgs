@@ -19,16 +19,42 @@
 <br>
 
 <br>🛠 Tecnologias e Ferramentas:
+
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30">&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30">&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg" height="30">&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30">
+  </picture>&nbsp;&nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30">
+  </picture>&nbsp;&nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
+  </picture>&nbsp;&nbsp;
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
+  </picture>&nbsp;&nbsp;
+
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
+  </picture>&nbsp;&nbsp;
 </div>
 <br>
 
 <br>💻 LinkedIn e E-mail:
+
 <div align="left">
   <a href="https://www.linkedin.com/in/brunacg/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30">
