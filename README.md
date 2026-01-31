@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0A89A6&section=header&reversal=false"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=20&duration=1000&pause=1000&color=00CCFFB8&center=true&vCenter=true&width=900&height=120&lines=Hello+World!+👩🏽‍💻;Eu+sou+a+Bruna,+engenheira+agrônoma+me+especializando+em;Ciência+de+Dados+e+Inteligência+Artificial+Aplicada+a+Negócios&multiline=true&repeat=false" alt="Bio da Bruna" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey&size=20&duration=1000&pause=1000&color=00CCFFB8&center=true&vCenter=true&width=900&height=120&lines=Hello+World!+👩🏽‍💻;Eu+sou+a+Bruna,+sou+engenheira+agrônoma+e+estou+me+especializando+em;Ciência+de+Dados+e+Inteligência+Artificial+Aplicada+a+Negócios&multiline=true&repeat=false" alt="Bio da Bruna" />
 </div>
 <br>
 👩🏽‍🎓 Experiência Acadêmica:
