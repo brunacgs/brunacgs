@@ -45,13 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
   </picture>&nbsp;&nbsp;
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
-  </picture>&nbsp;&nbsp;
-</div>
-<br>
+
 
 <br>💻 LinkedIn e E-mail:
 
