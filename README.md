@@ -34,12 +34,6 @@
   </picture>&nbsp;&nbsp;
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
-  </picture>&nbsp;&nbsp;
-
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="30">
