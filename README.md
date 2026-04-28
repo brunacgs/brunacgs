@@ -14,8 +14,8 @@
 👩🏽‍🌾 Experiência Profissional:
 <br>Analista de dados, Autônoma (2024- Atual)
 <br>Eng. Agrônoma Especialista em Qualidade de Sementes, Bayer (2023-2024)
-<br>Eng. Agrônoma de Produção de Sementes, Bayer (2019-2023)
-<br>Eng. Agrônoma Coordenadora de Pesquisa em Melhoramento de Soja, GM Seeds (2017-2019)
+<br>Eng. Agrônoma de Produção de Sementes, Bayer (2018-2023)
+<br>Eng. Agrônoma Coordenadora de Pesquisa em Melhoramento de Soja, GM Seeds (2017-2018)
 <br>
 
 <br>🛠 Tecnologias e Ferramentas:
