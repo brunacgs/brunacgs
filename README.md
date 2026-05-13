@@ -27,6 +27,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30">
   </picture>&nbsp;&nbsp;
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="30">
+  </picture>&nbsp;&nbsp;
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
